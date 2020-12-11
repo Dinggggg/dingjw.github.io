@@ -1,8 +1,4 @@
  
-
-@[TOC]( )
-<hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
-
 # Introduction
 *--- <font size=3>A Brief Overview</font>*
 
