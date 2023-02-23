@@ -5,6 +5,7 @@
 The sudden COVID-19 in 2020 disrupted our life order. So far, the global new crown epidemic has caused a total of more than 67 million infections and more than 1.53 million deaths. With an efficient real-time statistical system, the growth of these numbers is particularly shocking.
 <br>
 ![Origin img](https://img-blog.csdnimg.cn/20201211114316525.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RpbmdqdzE4,size_16,color_FFFFFF,t_70#pic_center)
+
 We chose visual work to describe the process of the COVID-19 outbreak in China. As can be seen from the figure, China’s daily number of confirmed cases has experienced many abnormal fluctuations, which makes more and more people suspect that China is falsifying official COVID-19 statistics. So has China really manipulated official statistics on COVID-19?
 # Dive into the Visual work
 *--- <font size=3>Detailed description of the Visual work </font>*
